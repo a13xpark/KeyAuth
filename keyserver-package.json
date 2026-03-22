@@ -1,0 +1,11 @@
+{
+  "name": "a1ex-keyserver",
+  "version": "1.0.0",
+  "main": "keyserver.js",
+  "scripts": {
+    "start": "node keyserver.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
